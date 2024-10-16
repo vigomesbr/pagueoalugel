@@ -1,0 +1,1 @@
+alert('pague o aluguel');
