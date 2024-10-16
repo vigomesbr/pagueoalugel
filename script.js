@@ -1,1 +1,1 @@
-alert('pague o aluguel');
+alert('teste');
